@@ -36,6 +36,7 @@ My strengths are the ability to learn and self–organization, the ability to fi
 ### Code Example:
 
 ### JS
+
 \*\*\* javascript
 function doubleInteger(i) {
     return i * 2;
