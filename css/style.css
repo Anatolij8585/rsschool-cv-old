@@ -1,5 +1,177 @@
+@import url('./reset.css');
+
+body {
+	width: 100%;
+	max-width: 1024px;
+	min-height: 100%;
+	margin: 0 auto;
+	font-family: "Roboto", "Arial", sans-serif;
+	background-color: #FFFFFF;
+	box-shadow: 0px 10px 40px rgba(126, 155, 189, 0.35);
+}
+
+h1,
+h2,
+h3 {
+	font-style: normal;
+	font-weight: 700;
+}
+
+.header {
+	display: flex;
+	background-color: #b1c1d4;
+	padding: 30px 50px;
+}
+
 .img-foto {
 	width: 200px;
 	height: 250px;
 	border-radius: 50px;
+}
+
+.name {
+	display: flex;
+	flex: 1 1 auto;
+	align-items: center;
+	justify-content: center;
+}
+
+.header-title {
+	font-size: 48px;
+	padding: 10px;
+}
+
+.text {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	padding: 10px;
+}
+
+.block {
+	width: 100%;
+	padding: 20px;
+}
+
+.column {
+	display: flex;
+	width: auto;
+}
+
+.left-column {
+	display: flex;
+	flex-direction: column;
+	padding-left: 20px;
+	width: 40%;
+	background-color: #b1c1d4;
+	border-radius: 50px;
+}
+
+.contacts-info {
+	display: flex;
+	align-items: center;
+	justify-content: left;
+}
+
+.contact-title {
+	font-size: 22px;
+	text-align: center;
+	padding-top: 30px;
+}
+
+.list {
+	text-align: left;
+	font-size: 16px;
+	list-style-type: none;
+}
+
+.icon {
+	width: 30px;
+	height: 30px;
+	padding: 10px;
+}
+
+.span {
+	font-weight: bold;
+}
+
+.skills-title {
+	font-size: 22px;
+	text-align: center;
+	padding-top: 30px;
+}
+
+.language-title {
+	font-size: 22px;
+	text-align: center;
+	padding-top: 30px;
+}
+
+.list-item {
+	padding: 10px;
+}
+
+.right-column {
+	width: 60%;
+	padding: 20px;
+}
+
+.about {
+	padding: 10px;
+}
+
+.about-title {
+	font-size: 22px;
+	text-align: left;
+	padding: 10px;
+}
+
+.about-text {
+	width: auto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 150%;
+	padding: 10px;
+}
+
+.education-title {
+	font-size: 22px;
+	text-align: left;
+	padding: 10px;
+}
+
+.code-title {
+	width: 100%;
+	font-size: 22px;
+	text-align: left;
+	padding: 10px;
+}
+
+.code-example {
+	width: 60%;
+}
+
+.footer {
+	display: flex;
+	justify-content: space-between;
+	background-color: #b1c1d4;
+	height: 65px;
+	align-items: center;
+	font-size: 16px;
+	letter-spacing: 0.3px;
+	padding: 0 20px;
+}
+
+.my-github {
+	display: flex;
+	text-decoration: none;
+	align-items: center;
+}
+
+.github-icon {
+	padding-right: 10px;
+}
+
+.github-text {
+	color: #000000;
 }
