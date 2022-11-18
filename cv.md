@@ -36,3 +36,29 @@ My strengths are the ability to learn and self–organization, the ability to fi
 ### Code Example:
 
 ### JS
+\*\*\* javascript
+function doubleInteger(i) {
+    return i * 2;
+}
+
+---
+
+### Education and courses:
+
+- Kostroma State University,Russia
+  - Lawyer
+- Kostroma Engineering College
+  - Welder
+- Kostroma Highway College
+  - Mechanic Technician
+- Resalt School
+  - HTML and CSS Basics
+- Netologia
+  - Basics of site layout
+- CSS, HTML, Git video courses on YouTube channels
+- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+### Languages:
+
+- Russian - Native
+- English - A2 (B1 in process…)
