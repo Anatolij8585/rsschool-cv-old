@@ -35,12 +35,13 @@ My strengths are the ability to learn and self–organization, the ability to fi
 
 ### Code Example:
 
-### JS
+### JavScript
 
-\*\*\* javascript
+```
 function doubleInteger(i) {
     return i * 2;
 }
+```
 
 ---
 
