@@ -140,6 +140,22 @@ h3 {
 	padding: 10px;
 }
 
+.project-title {
+	font-size: 22px;
+	text-align: left;
+	padding: 10px;
+}
+
+.my_first_project {
+	text-decoration: none;
+	color: #000000;
+	width: auto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 150%;
+	padding: 10px;
+}
+
 .code-title {
 	width: 100%;
 	font-size: 22px;
